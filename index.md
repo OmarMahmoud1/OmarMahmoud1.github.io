@@ -6,7 +6,7 @@
 #### here is a small description of the project
 
 [Dense Clouds](/clouds.md)
-<img src="images/Dense_cloud_screenshot.png?raw=true"/>
+[<img src="images/Dense_cloud_screenshot.png?raw=true"/>]
 
 
 ---
