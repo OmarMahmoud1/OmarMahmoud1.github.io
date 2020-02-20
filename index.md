@@ -11,8 +11,8 @@
 
 ---
 ### Project 2 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Pumpkin Growth](/pdf/sample_presentation.pdf)
+<img src="images/IL_pumpkins.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
