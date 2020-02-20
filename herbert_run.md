@@ -1,2 +1,2 @@
 decription of the project 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/herbert_run.png?raw=true"/>
