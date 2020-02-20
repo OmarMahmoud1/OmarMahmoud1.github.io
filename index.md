@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Dense Clouds](/clouds.md)
 <img src="images/Dense_cloud_screenshot.png?raw=true"/>
 
 
