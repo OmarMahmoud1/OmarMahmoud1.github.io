@@ -15,8 +15,9 @@
 [<img src="images/IL_pumpkins.png?raw=true"/>](/pumpkins.md)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/herbert_run.png?raw=true"/>
+### Project 3
+[Herbert Run Hydrology](/herbert_run.md)
+[<img src="images/herbert_run.png?raw=true"/>](/herbert_run.md)
 
 
 ---
