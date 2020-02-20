@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Project 1
 
 [Dense Clouds](/clouds.md)
 <img src="images/Dense_cloud_screenshot.png?raw=true"/>
