@@ -11,12 +11,13 @@
 
 ---
 ### Project 2 
-[Pumpkin Growth](/pumpkins.md)
-[<img src="images/IL_pumpkins.png?raw=true"/>](/pumpkins.md)
+[Pumpkin Growth](/pdf/sample_presentation.pdf)
+<img src="images/IL_pumpkins.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/herbert_run.png?raw=true"/>
+
 
 ---
 
