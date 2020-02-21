@@ -22,6 +22,7 @@
 ### Web Map
 
 [Web Map](/web_map_gazipur/index.html)
+[<img src="images/webmap.png?raw=true"/>](/web_map_gazipur/index.html)
 
 ---
 
