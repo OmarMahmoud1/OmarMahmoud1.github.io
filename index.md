@@ -3,7 +3,7 @@
 ---
 
 ### Project 1
-#### here is a small description of the project
+#### A 3D image of a portion of the UMBC campus.
 
 [Dense Clouds](/clouds.md)
 [<img src="images/Dense_cloud_screenshot.png?raw=true"/>](/clouds.md)
