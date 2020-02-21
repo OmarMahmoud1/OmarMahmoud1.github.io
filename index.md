@@ -20,20 +20,7 @@
 [<img src="images/herbert_run.png?raw=true"/>](/herbert_run.md)
 ---
 ### Web Map
-<html> 
-  <head> 
-    <script src="jquery.js"></script> 
-    <script> 
-    $(function(){
-      $("#includedContent").load("/web_map_gazipur/index.html"); 
-    });
-    </script> 
-  </head> 
 
-  <body> 
-     <div id="includedContent"></div>
-  </body> 
-</html>
 [Web Map](/web_map_gazipur/index.html)
 
 ---
