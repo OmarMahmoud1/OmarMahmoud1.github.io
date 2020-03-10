@@ -1,9 +1,11 @@
-#Topic: find out the nearest populated place near where each earthquake happened and create a timelapse of earthquake occurance in the United states 
+#Topic: Create a timelapse map of earthquake occurances around the world from March 3rd 2020 to March 10, 2020
+
+The sources where I will get the earthquake data will come from the usgs website at: 
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.csv
 
 
-The data will be where the earthquakaes have happened and another shape file for population 
-the data wil be downloaded from Natural Centers for Environmental Information( earthquake data) https://www.ngdc.noaa.gov/nndc/struts/form?t=101650&s=1&d=1
-and Natural Earth Data for the population data http://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-populated-places/
+I will be using ggplot to make static maps with magnitudes plotted and I will use the gganimate package in R Studio to create dynamic maps of where earthquakes have occured and their magnitude 
 
 
-The output will be a map using the nearest neighbor distance analysis.
+
+
