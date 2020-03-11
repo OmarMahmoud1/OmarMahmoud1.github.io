@@ -4,6 +4,7 @@
 ### Project 1 
 #### Earthquake Occurance March 3rd 2020  to March 10 2020 
 
+[Earthquakes using R]
 <img src="images/earthquakes2.gif?raw=true"/>
 
 
