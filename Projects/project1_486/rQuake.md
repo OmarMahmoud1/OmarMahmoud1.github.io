@@ -1,1 +1,1 @@
-images/earthquakes2.gif
+<img src="images/earthquakes2.gif">
