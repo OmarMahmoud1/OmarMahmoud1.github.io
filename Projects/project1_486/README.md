@@ -8,4 +8,4 @@ I will be using ggplot to make static maps with magnitudes plotted and I will us
 
 
 
-
+<img src="images/earthquakes2.gif?raw=true"/>
