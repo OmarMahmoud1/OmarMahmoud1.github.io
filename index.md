@@ -1,8 +1,15 @@
 ## Portfolio
 
 ---
+### Project 1 
+#### Earthquake Occurance March 3rd 2020  to March 10 2020 
 
-### Project 1
+<img src="images/earthquakes2.gif?raw=true"/>
+
+
+
+---
+### Lab 1
 #### A 3D image of a portion of the UMBC campus.
 
 [Dense Clouds](/clouds.md)
@@ -10,12 +17,12 @@
 
 
 ---
-### Project 2 
+### Lab 2 
 [Pumpkin Growth](/pumpkins.md)
 [<img src="images/IL_pumpkins.png?raw=true"/>](/pumpkins.md)
 
 ---
-### Project 3
+### Lab 3
 [Herbert Run Hydrology](/herbert_run.md)
 [<img src="images/herbert_run.png?raw=true"/>](/herbert_run.md)
 ---
