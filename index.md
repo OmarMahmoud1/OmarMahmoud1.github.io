@@ -13,6 +13,7 @@
 
 ### Project 3
 [Interactive Map](/final_project/interactive.html)
+[<img src="final_project/Screen Shot 2020-05-14 at 11.24.31 AM.png?=true"/>](/final_project/interactive.html)
 
 ### Lab 1
 #### A 3D image of a portion of the UMBC campus.
