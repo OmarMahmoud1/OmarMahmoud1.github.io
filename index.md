@@ -10,6 +10,10 @@
 
 
 ---
+
+### Project 3
+[Interactive Map]
+
 ### Lab 1
 #### A 3D image of a portion of the UMBC campus.
 
