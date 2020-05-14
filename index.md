@@ -12,7 +12,7 @@
 ---
 
 ### Project 3
-[Interactive Map]
+[Interactive Map](/Projects/Project 3/qgis2web_2020_05_14-09_43_33_126765/index copy.html)
 
 ### Lab 1
 #### A 3D image of a portion of the UMBC campus.
